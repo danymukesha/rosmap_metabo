@@ -8,17 +8,19 @@ Alzheimer's Disease) consortium.
 
 Key Datasets (by Platform/Lab)
 
-Dataset	Tissue	Samples	Platform
-4688 (serum p180)	Serum/Blood	~621	Biocrates p180 (FIA + UPLC)
-5236 (brain p180)	DLPFC brain	~116	Biocrates p180 (FIA + UPLC)
-Baker Lipidomics Blood450	Serum	~369	Baker Heart Institute LC-MSMS
-Baker Lipidomics Brain514	Frontal cortex	~504	Baker Heart Institute LC-MSMS
-Metabolon HD4 Brain514	DLPFC brain	~521	Metabolon (Q Exactive)
-Metabolon Serum450	Serum	~448	Metabolon
-Leiden Serum450 (Oxylipins)	Serum	~445	Leiden LC-MSMS
-UC Davis Brain514	Frontal cortex	—	LC-MSMS
-Emory Lipidomics (M2OVE-AD)	Brain + Plasma	—	Orbitrap Fusion Lumos
-Duke Bile Acids	DLPFC brain	—	Biocrates Bile Acids (Xevo TQ-S)
+| Dataset                     | Tissue         | Samples | Platform                         |
+| --------------------------- | -------------- | ------: | -------------------------------- |
+| 4688 (serum p180)           | Serum/Blood    |    ~621 | Biocrates p180 (FIA + UPLC)      |
+| 5236 (brain p180)           | DLPFC brain    |    ~116 | Biocrates p180 (FIA + UPLC)      |
+| Baker Lipidomics Blood450   | Serum          |    ~369 | Baker Heart Institute LC-MS/MS   |
+| Baker Lipidomics Brain514   | Frontal cortex |    ~504 | Baker Heart Institute LC-MS/MS   |
+| Metabolon HD4 Brain514      | DLPFC brain    |    ~521 | Metabolon (Q Exactive)           |
+| Metabolon Serum450          | Serum          |    ~448 | Metabolon                        |
+| Leiden Serum450 (Oxylipins) | Serum          |    ~445 | Leiden LC-MS/MS                  |
+| UC Davis Brain514           | Frontal cortex |       — | LC-MS/MS                         |
+| Emory Lipidomics (M2OVE-AD) | Brain + Plasma |       — | Orbitrap Fusion Lumos            |
+| Duke Bile Acids             | DLPFC brain    |       — | Biocrates Bile Acids (Xevo TQ-S) |
+
 
 Metabolite Classes Covered
 
